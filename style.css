@@ -22,7 +22,6 @@ header {
 }
 
 nav ul {
-    position: absolute;
     list-style-type: none;
     text-align: center;
 }
